@@ -1,5 +1,7 @@
 <h1 align="center"> Olá, sou o Hélio ! </h1>
-<br /><br />
+<br />
+<h3 align="center"> Aqui você pode conhecer um pouco mais do meu trabalho e em que estou trabalhando atualmente. </h3>
+
 ## Olá, sou o Hélio !
 ### Bem vindo ao meu perfil GitHub 👋
 
