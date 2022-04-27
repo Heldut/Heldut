@@ -1,11 +1,14 @@
 <h1 align="center"> Olá, sou o Hélio ! </h1>
 <h3 align="center"> Aqui você pode conhecer um pouco mais do meu trabalho e em que estou trabalhando atualmente. </h3>
 
+<a href="mailto:heldut@gmail.com">
+  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 
 
-## Olá, sou o Hélio !
-### Bem vindo ao meu perfil GitHub 👋
+
+<br /><br /><br />
 
 <!--
 **Heldut/Heldut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
