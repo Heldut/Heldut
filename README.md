@@ -1,4 +1,5 @@
-## Olá, sou o Hélio ! 
+<h1 align="center"> Olá, sou o Hélio ! </h1>
+## Olá, sou o Hélio !
 ### Bem vindo ao meu perfil GitHub 👋
 
 <!--
