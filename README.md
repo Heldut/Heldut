@@ -12,8 +12,8 @@
 </a>
 
 
-
-
+<h3 align="left"> Minhas Experiências </h3>
+Atualmente estou trabalhando no seguimento da saúde na empresa Trasmontano. Aqui suportamos aplicações desenvolvidas em Visual Basic 6, aplicações Web, WebServices e Windows Services utilizando Visual Studio 2008, 2013 e 2019 com frameworks 2.0, 3.5 e 4.0. Também suportamos e WebApis com .netcore 2.0, 2.1 e 3.1. Essas aplicações consomem dados de um servidor SQL Server onde criamos e alteramos Views, Procedures e Triggers. 
 
 
 <br /><br /><br />
