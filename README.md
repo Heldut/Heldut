@@ -2,7 +2,7 @@
 <h3 align="center"> Aqui você pode conhecer um pouco mais do meu trabalho e em que estou trabalhando atualmente. </h3>
 
 <a href="mailto:heldut@gmail.com">
-  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:50%;">
 </a>
 
 
