@@ -1,6 +1,6 @@
-<h1 align="center"> Olá, sou o Hélio ! </h1>
+<h2 align="center"> Olá, sou o Hélio ! </h2>
 <h3 align="center"> Aqui você pode conhecer um pouco mais do meu trabalho e em que estou trabalhando atualmente. Sou desenvolvedor de software formado em Sistemas de Informação que curte muito implementar novas ideias de processos em computação.</h3>
-
+<br />
 <a href="http://www.heldut.com.br" target="_blank">
   <img align="right" width="100px" height="25px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width:100%;">
 </a>
