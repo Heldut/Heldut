@@ -2,13 +2,13 @@
 <h3 align="center"> Aqui você pode conhecer um pouco mais do meu trabalho e em que estou trabalhando atualmente. </h3>
 
 <a href="mailto:heldut@gmail.com">
-  <img align="left" width="24px" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
+  <img align="left" width="100px" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
 </a>
 <a href="mailto:heldut@hotmail.com">
-  <img align="left" width="24px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;">
+  <img align="left" width="100px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;">
 </a>
 <a href="heldut.com.br">
-  <img align="left" width="24px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width:100%;">
+  <img align="left" width="100px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width:100%;">
 </a>
 
 
