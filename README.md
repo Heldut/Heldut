@@ -29,11 +29,22 @@
 </h3>
 <h3 align="center" width="100%">
   <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  
+  <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white ">
 </h3>  
 <h1>
 
+  
 
+  
+ 
+  
+
+
+  
 <h3 align="left"> Minhas Experiências </h3>
 <span align="justify">
 Atualmente estou trabalhando no seguimento da saúde na empresa Trasmontano. Aqui suportamos aplicações desenvolvidas em Visual Basic 6, aplicações Web, WebServices e Windows Services utilizando Visual Studio 2008, 2013 e 2019 com frameworks 2.0, 3.5 e 4.0. Também suportamos WebApis com os frameworks .netcore 2.0, 2.1 e 3.1. Essas aplicações consomem dados de um servidor SQL Server onde criamos e alteramos Views, Procedures e Triggers.</span>
