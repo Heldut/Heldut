@@ -1,6 +1,7 @@
 <h2 align="center"> Olá, sou o Hélio ! </h2>
 <h3 align="center"> Aqui você pode conhecer um pouco mais do meu trabalho e em que estou trabalhando atualmente. Sou desenvolvedor de software formado em Sistemas de Informação que curte muito implementar novas ideias de processos em computação.</h3>
 <br />
+
 <a target="_blank" href="http://www.heldut.com.br">
   <img align="right" width="100px" height="25px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width:100%;">
 </a>
@@ -10,9 +11,16 @@
 <a href="mailto:heldut@hotmail.com">
   <img align="right" width="150px" height="25px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
-<br>
 
-<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+<br /><br />
+<span style="border:1px solid #cecece;">
+  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+</span>
 
 <h1>
 
