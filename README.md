@@ -8,10 +8,16 @@
   <img align="right" width="100px" height="25px" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
 </a>
 <a href="mailto:heldut@hotmail.com">
-  <img align="right" width="150px" height="25px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  <img align="right" width="150px" height="25px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </a>
+<br />
+<br />
+<br />
+
+<img align="right" width="150px" height="25px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 
 
+<br />
 <h3 align="left"> Minhas Experiências </h3>
 <span align="justify">
 Atualmente estou trabalhando no seguimento da saúde na empresa Trasmontano. Aqui suportamos aplicações desenvolvidas em Visual Basic 6, aplicações Web, WebServices e Windows Services utilizando Visual Studio 2008, 2013 e 2019 com frameworks 2.0, 3.5 e 4.0. Também suportamos WebApis com os frameworks .netcore 2.0, 2.1 e 3.1. Essas aplicações consomem dados de um servidor SQL Server onde criamos e alteramos Views, Procedures e Triggers.</span>
