@@ -10,6 +10,12 @@
 <a href="mailto:heldut@hotmail.com">
   <img align="right" width="150px" height="25px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
+<br>
+
+<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+<h1>
+
 
 <h3 align="left"> Minhas Experiências </h3>
 <span align="justify">
